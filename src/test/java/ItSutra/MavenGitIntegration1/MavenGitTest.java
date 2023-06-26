@@ -24,7 +24,7 @@ public class MavenGitTest {
 	@BeforeTest
 	public void beforeTest() {
 		_driver = new FirefoxDriver();
-		_driver.get("www.google.com");
+	
 
 	}
 
